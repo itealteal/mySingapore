@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvSingers2" type="id" />
+    <item name="etSingers2" type="id" />
+    <item name="tvYear2" type="id" />
+    <item name="etYear2" type="id" />
+    <item name="tvStars2" type="id" />
+    <item name="rbStars2" type="id" />
+    <item name="btnUpdate" type="id" />
+    <item name="btnDelete" type="id" />
+    <item name="btnCancel" type="id" />
+    <item name="etTitle2" type="id" />
+    <item name="tvTitle2" type="id" />
+    <item name="etId" type="id" />
+    <item name="tvId" type="id" />
+</resources>
